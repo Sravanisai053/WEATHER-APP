@@ -1,1 +1,14 @@
-Here i have done a weather app for the checking the correction sittuation in that particular city like temperature the exact time ,conditions and many more.
+This Weather App provides real-time weather information for any city.
+The app fetches weather data from the OpenWeatherMap API and displays the temperature, weather condition, and current time. The app also features animated backgrounds for different weather conditions such as rain, snow, and thunderstorm.
+TECHNOLOGIES USED
+HTML: The structure of the web page.
+CSS: Styling and animations.
+JavaScript: Fetching weather data from the API and updating the DOM.
+OpenWeatherMap API: Source of weather data.
+
+Prerequisites
+A web browser.
+Internet connection.
+
+
+
